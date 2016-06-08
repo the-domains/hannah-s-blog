@@ -1,0 +1,28 @@
+name: "Hannah's Blog"
+favicon: null
+layout_spectrum: 0.991911158664152
+typography_spectrum: 0.17966681672260165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4882820046041161
+  lightness: 0.7603701585903764
+  saturation: 0.4380682799965143
+  rhythmicContrast: 0.5134787412825972
+purpose: []
