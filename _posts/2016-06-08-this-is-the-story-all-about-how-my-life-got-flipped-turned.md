@@ -10,8 +10,8 @@ description: >-
   a little too round, and a lot too red, but she is also gorgeous. Everyone who
   passed this field while I stood there paused to smile at the tulip sticking up
   above the rest, proudly blooming the wrong color.
-datePublished: '2016-06-08T21:58:06.244Z'
-dateModified: '2016-06-08T21:57:36.623Z'
+datePublished: '2016-06-08T23:07:00.459Z'
+dateModified: '2016-06-08T21:58:13.891Z'
 title: ''
 author: []
 sourcePath: >-
