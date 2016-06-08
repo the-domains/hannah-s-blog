@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: www.google.com is where I like to search. This is an otter. I love them.
-datePublished: '2016-06-08T19:52:45.453Z'
-dateModified: '2016-06-08T19:52:45.203Z'
+description: Five ways to live with less and love it
+datePublished: '2016-06-08T20:11:42.114Z'
+dateModified: '2016-06-08T20:10:31.993Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-08-wwwgooglecom-is-where-i-like-to-search.md
@@ -17,6 +17,7 @@ url: wwwgooglecom-is-where-i-like-to-search/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff9ca31-7fcc-4196-bfd9-b6e255c57bf3.jpg)
+Five ways to live with less and love it
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfb90d27-45ad-4c67-824c-6f759143acda.jpg)
 
-www.google.com is where I like to search. This is an otter. I love them.
+Not long ago I was bit by the simplicity bug, and I LOVE it! It is deeply rewarding to look at a
