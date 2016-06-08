@@ -23,6 +23,6 @@ color:
     - '#ff587e'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.3125
+  saturation: 0.125
   rhythmicContrast: 1
 purpose: []
