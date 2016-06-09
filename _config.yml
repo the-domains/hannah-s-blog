@@ -1,6 +1,6 @@
 name: "Hannah's Blog"
 favicon: null
-layout_spectrum: 0.49582
+layout_spectrum: 0.16767
 typography_spectrum: 0.50598
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#2c5e41'
     - '#919692'
     - '#ff587e'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.125
-  rhythmicContrast: 1
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
